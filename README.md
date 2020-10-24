@@ -6,3 +6,6 @@ Jawaban dibuat dengan bahasa pemograman PHP, Database Mysql dan FrameWork CSS ( 
 - untuk menjalankan clone atau download, kemudian
 - import book_dumbways.sql,
 - run http://localhost/4.php
+
+Berikut ScreenShoot halam depan :
+![tampilan index book](https://user-images.githubusercontent.com/70770018/97083048-eff8bb80-1637-11eb-9052-700c7a7f526c.jpg)
